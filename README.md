@@ -1,35 +1,57 @@
-## Sales Analytics Project
-**Objective 1:** Create a dynamic Customer Performance Report.
-**Objective 2:** Conduct a comprehensive Market Performance vs. Sales Targets comparison.
 
-**Purpose:** This project is designed to empower businesses with the tools they need to monitor and evaluate their sales activities and performance. 
 
-**Importance:** Sales analytics reveals vital sales patterns and tracks Key Performance Indicators (KPIs) crucial for making informed decisions.
+One major takeaway from this course is that it's not just about the tool; 
+it's about solving real-world problems. 🧠💡
 
-**Role of Reports:** The reports I create play a pivotal role in determining effective customer discounts, facilitating negotiations with consumers, and identifying promising business expansion opportunities in specific countries.
+📚 Here's a snapshot of what I've learned:
+🔹 SQL
+🔹 PowerBi Desktop
+🔹 Excel
+🔹 DAX language
+🔹 DAX studio (for optimizing reports)
+🔹 Project charter file
 
-## Finance Report Project
-**Objective 1:** Craft Profit and Loss (P&L) reports categorized by Fiscal Year & Months.
-**Objective 2:** Generate Profit and Loss (P&L) reports segmented by Markets.
+📊 PowerBi Techniques Covered:
+🔹 Project initiation questions
+🔹 Calculated columns creation
+🔹 Measure creation using DAX language
+🔹 Data modeling
+🔹 Utilizing Bookmarks for visual switching
+🔹 Page navigation with buttons
+🔹 Using divide function to prevent zero division errors
+🔹 Creating date tables using M language
+🔹 Dynamic titles based on applied filters
+🔹 Using KPI indicators
+🔹 Conditional formatting in visuals using icons or background colors
+🔹 Data validation techniques
+🔹 PowerBi services
+🔹 Publishing reports to PowerBi services
+🔹 Setting up personal gateway for data auto-refresh
+🔹 PowerBi App creation
+🔹 Collaboration, workspace management, and access permissions in PowerBi services
+...and much more! 😅
 
-**Purpose:** This project revolves around evaluating financial performance, supporting decision-making, and enhancing communication with stakeholders.
+💻 Additionally, I delved into GitHub and business-related topics:
+🔹 Uploading large files using GitHub LFS
+🔹 Tracking specific file extensions for LFS
 
-**Importance:** Financial data analysis aids in benchmarking against industry peers and previous periods, serving as a foundation for budgeting and forecasting.
+📈 Business Terminology I've Mastered:
+🔹 Gross price
+🔹 Pre-invoice deductions
+🔹 Post-invoice deductions
+🔹 Net Invoice sale
+🔹 Gross Margin
+🔹 Net sales
+🔹 Net profit
+🔹 COGC - cost of goods sold
+🔹 YTD - Year to Date
+🔹 YTG - Year to Go
+🔹 Direct, Retailer, Distributors, Consumer
 
-**Role of Reports:** The financial reports I create align financial planning with strategic goals and instill confidence in the organization's financial outlook.
+🔑 Invaluable Insights Shared:
+🔹 Resume Tips
+🔹 Questioning Tips
+🔹 Problem-Solving Mindset
+🔹 Interview Tips
 
-## Technical & Soft Skills
-In this journey, I've developed a comprehensive skill set, including:
-- Proficiency in ETL methodology (Extract, Transform, Load).
-- Skills to generate a date table using Power Query.
-- Ability to derive fiscal months and quarters.
-- Establishing data model relationships with Power Pivot.
-- Proficiency in incorporating supplementary data into an existing data model.
-- Utilizing DAX to create calculated columns.
 
-## Soft Skills
-Beyond technical know-how, I bring to the table:
-- A refined understanding of Sales & Finance Reports.
-- Designing user-centric reports with empathy in mind.
-- Optimization of report generation through meticulous fine-tuning.
-- Developing a systematic approach to devising a report building plan.
