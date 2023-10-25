@@ -1,57 +1,62 @@
+# Data Analytics and Business Insights with PowerBi
 
+Welcome to our Data Analytics and Business Insights repository! We're dedicated to delivering data-driven solutions to enhance decision-making in various domains. Let's dive into the core of what we've accomplished:
 
-One major takeaway from this course is that it's not just about the tool; 
-it's about solving real-world problems. 🧠💡
+## Overview
 
-📚 Here's a snapshot of what I've learned:
-🔹 SQL
-🔹 PowerBi Desktop
-🔹 Excel
-🔹 DAX language
-🔹 DAX studio (for optimizing reports)
-🔹 Project charter file
+Our primary goal is to harness the power of data analytics to outperform competitors and drive informed decisions. In this project, we provide insights into finance, sales, marketing, and supply chain for stakeholders.
 
-📊 PowerBi Techniques Covered:
-🔹 Project initiation questions
-🔹 Calculated columns creation
-🔹 Measure creation using DAX language
-🔹 Data modeling
-🔹 Utilizing Bookmarks for visual switching
-🔹 Page navigation with buttons
-🔹 Using divide function to prevent zero division errors
-🔹 Creating date tables using M language
-🔹 Dynamic titles based on applied filters
-🔹 Using KPI indicators
-🔹 Conditional formatting in visuals using icons or background colors
-🔹 Data validation techniques
-🔹 PowerBi services
-🔹 Publishing reports to PowerBi services
-🔹 Setting up personal gateway for data auto-refresh
-🔹 PowerBi App creation
-🔹 Collaboration, workspace management, and access permissions in PowerBi services
-...and much more! 😅
+## Financial Analysis
 
-💻 Additionally, I delved into GitHub and business-related topics:
-🔹 Uploading large files using GitHub LFS
-🔹 Tracking specific file extensions for LFS
+- Delve deep into Profit and Loss statements.
+- Examine Net Sales trends.
+- Analyze top-performing Products and Customers.
 
-📈 Business Terminology I've Mastered:
-🔹 Gross price
-🔹 Pre-invoice deductions
-🔹 Post-invoice deductions
-🔹 Net Invoice sale
-🔹 Gross Margin
-🔹 Net sales
-🔹 Net profit
-🔹 COGC - cost of goods sold
-🔹 YTD - Year to Date
-🔹 YTG - Year to Go
-🔹 Direct, Retailer, Distributors, Consumer
+## Sales Performance
 
-🔑 Invaluable Insights Shared:
-🔹 Resume Tips
-🔹 Questioning Tips
-🔹 Problem-Solving Mindset
-🔹 Interview Tips
+- Explore Customer and Product performance.
+- Scrutinize Net Sales and Gross Margin.
+- Examine unit economics including Cost of Goods Sold (COGS) and deductions.
+
+## Marketing Insights
+
+- Uncover Product Performance.
+- Evaluate Market, Regional, and Customer Performance.
+- Examine Gross Margin percentages (GM%) and Net Profit percentages (NP%).
+- Explore unit economics encompassing COGS and operational expenses.
+
+## Supply Chain Metrics
+
+- Investigate forecast accuracy, Net Errors, and Absolute Errors.
+- Reveal vital metrics related to Customers.
+- Track Accuracy and Net Error trends.
+- Explore key metrics related to Products.
+
+## Executive Dashboard
+
+- Get an integrated view of key insights for executives.
+- Gain strategic insights into market share trends.
+- Identify the top 5 customers and products.
+- Analyze revenue trends.
+
+## Learning Journey
+
+Our learning journey encompasses a wide array of technical skills and business acumen:
+
+- SQL
+- PowerBi Desktop
+- Excel
+- DAX language
+- DAX studio for optimizing reports
+- Project charter file
+- GitHub and file management
+- Business terminology including Gross Price, Pre-Invoice Deductions, Post-Invoice Deductions, and more.
+- Valuable insights in resume building, questioning, problem-solving, and interview tips.
+
+### Let's Connect
+
+We're enthusiastic about data analytics, and we'd love to connect with like-minded individuals. Join us in exploring the world of data-driven decision-making. 
+
+[Connect with us on LinkedIn](www.linkedin.com/in/cjagadish)
 
 
