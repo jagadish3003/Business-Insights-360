@@ -1,61 +1,49 @@
-# Data Analytics and Business Insights with PowerBi
+# Data Analytics with PowerBi
 
-Welcome to our Data Analytics and Business Insights repository! We're dedicated to delivering data-driven solutions to enhance decision-making in various domains. Let's dive into the core of what we've accomplished:
+Welcome to our Data Analytics repository! We use PowerBi to gather insights for smarter decisions. Here's what we've achieved:
 
-## Overview
+## What We Do
 
-Our primary goal is to harness the power of data analytics to outperform competitors and drive informed decisions. In this project, we provide insights into finance, sales, marketing, and supply chain for stakeholders.
+Our mission is to use data to make better decisions in finance, sales, marketing, and supply chain.
 
-## Financial Analysis
+## Explore Finances
 
-- Delve deep into Profit and Loss statements.
-- Examine Net Sales trends.
-- Analyze top-performing Products and Customers.
+- Look at profits and losses.
+- Check out trends in net sales.
+- Identify top-performing products and customers.
 
-## Sales Performance
+## Understand Sales
 
-- Explore Customer and Product performance.
-- Scrutinize Net Sales and Gross Margin.
-- Examine unit economics including Cost of Goods Sold (COGS) and deductions.
+- Analyze customer and product performance.
+- Examine net sales and gross margin.
+- Dig into numbers like cost of goods sold (COGS).
 
 ## Marketing Insights
 
-- Uncover Product Performance.
-- Evaluate Market, Regional, and Customer Performance.
-- Examine Gross Margin percentages (GM%) and Net Profit percentages (NP%).
-- Explore unit economics encompassing COGS and operational expenses.
+- Discover how products are performing.
+- Understand how different regions and customers affect business.
+- Check out numbers like gross margin percentages (GM%) and net profit percentages (NP%).
 
 ## Supply Chain Metrics
 
-- Investigate forecast accuracy, Net Errors, and Absolute Errors.
-- Reveal vital metrics related to Customers.
-- Track Accuracy and Net Error trends.
-- Explore key metrics related to Products.
+- Investigate the accuracy of forecasts.
+- Explore metrics related to customers and products.
 
 ## Executive Dashboard
 
-- Get an integrated view of key insights for executives.
-- Gain strategic insights into market share trends.
-- Identify the top 5 customers and products.
-- Analyze revenue trends.
+- Get a quick view of key insights.
+- Understand market trends and top customers/products.
 
-## Learning Journey
+## What We've Learned
 
-Our learning journey encompasses a wide array of technical skills and business acumen:
+We've picked up a variety of skills and insights:
+- Using PowerBi for data analysis.
+- Navigating data with Excel.
+- Learning about business and finance terms.
 
-- SQL
-- PowerBi Desktop
-- Excel
-- DAX language
-- DAX studio for optimizing reports
-- Project charter file
-- GitHub and file management
-- Business terminology including Gross Price, Pre-Invoice Deductions, Post-Invoice Deductions, and more.
-- Valuable insights in resume building, questioning, problem-solving, and interview tips.
+### Join Us
 
-### Let's Connect
-
-We're enthusiastic about data analytics, and we'd love to connect with like-minded individuals. Join us in exploring the world of data-driven decision-making. 
+We're passionate about data analytics, and we'd love to connect with you. Let's explore the world of data-driven decisions together. 
 
 [Connect with us on LinkedIn](www.linkedin.com/in/cjagadish)
 
