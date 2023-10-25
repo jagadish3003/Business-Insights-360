@@ -1,10 +1,10 @@
 # Data Analytics with PowerBi
 
-Welcome to our Data Analytics repository! We use PowerBi to gather insights for smarter decisions. Here's what we've achieved:
+Welcome to  Data Analytics repository! I use PowerBi to gather insights for smarter decisions. Here's what I've achieved:
 
-## What We Do
+## What I Do
 
-Our mission is to use data to make better decisions in finance, sales, marketing, and supply chain.
+My mission is to use data to make better decisions in finance, sales, marketing, and supply chain.
 
 ## Explore Finances
 
@@ -34,17 +34,15 @@ Our mission is to use data to make better decisions in finance, sales, marketing
 - Get a quick view of key insights.
 - Understand market trends and top customers/products.
 
-## What We've Learned
+## What I've Learned
 
-We've picked up a variety of skills and insights:
+I've picked up a variety of skills and insights:
 - Using PowerBi for data analysis.
 - Navigating data with Excel.
 - Learning about business and finance terms.
 
-### Join Us
+Let's explore the world of data-driven decisions together. 
 
-We're passionate about data analytics, and we'd love to connect with you. Let's explore the world of data-driven decisions together. 
-
-[Connect with us on LinkedIn](www.linkedin.com/in/cjagadish)
+[Connect with me on LinkedIn](www.linkedin.com/in/cjagadish)
 
 
