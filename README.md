@@ -39,9 +39,7 @@ My mission is to use data to make better decisions in finance, sales, marketing,
 I've picked up a variety of skills and insights:
 - Using PowerBi for data analysis.
 - Navigating data with Excel.
-- Learning about business and finance terms.
-
-Let's explore the world of data-driven decisions together. 
+- Learning about business and finance terms. 
 
 [Connect with me on LinkedIn](www.linkedin.com/in/cjagadish)
 
